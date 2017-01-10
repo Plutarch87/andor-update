@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="200">
+    <desc iVinci="yes" version="4.5" gridStep="20" showGrid="no" snapToGrid="no" codePlatform="0"/>
+    <g id="Layer1" opacity="1">
+        <g id="Shape1">
+          <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-96,-200,192,400)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,0,100)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+          <path id="shapePath1" d="M-96,-100 L-96,300 L96,110 L96,90 L-96,-100 M82.5,100.96 C82.5,98.751 84.291,96.96 86.5,96.96 C88.709,96.96 90.5,98.751 90.5,100.96 C90.5,103.169 88.709,104.96 86.5,104.96 C84.291,104.96 82.5,103.169 82.5,100.96 Z" style="stroke:none;fill-rule:nonzero;fill:#CD69F8;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>
